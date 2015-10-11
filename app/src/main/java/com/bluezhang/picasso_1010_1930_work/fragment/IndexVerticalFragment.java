@@ -143,10 +143,6 @@ public class IndexVerticalFragment extends Fragment {
                 datas.addAll(MV.getResults());
                 adapter.notifyDataSetChanged();
 
-
-
-
-
             }
         });
     }
